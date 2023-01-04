@@ -1,0 +1,6 @@
+numero=int(input("bienvenido, por favor dime en que numero estas pensando entre 1 y 1000: "))
+
+if numero%2==0:
+    print("el numero ", numero, "es par")
+else:
+    print("el numero", numero," es impar")
